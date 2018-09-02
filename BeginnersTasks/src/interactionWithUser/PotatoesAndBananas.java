@@ -1,4 +1,4 @@
-package interactionAndSimpleCalculations;
+package interactionWithUser;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
