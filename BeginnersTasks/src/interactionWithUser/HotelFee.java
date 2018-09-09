@@ -83,6 +83,7 @@ public class HotelFee {
 		
 		
 		System.out.println("Total cost: " + Fee);
+		sc.close();
 
 	}
 
