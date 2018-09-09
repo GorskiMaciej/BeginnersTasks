@@ -65,6 +65,7 @@ public class AreaOfTriangle {
 			}
 		}
 		System.out.println("Thank for using my program.");
+		sc.close();
 		
 		
 		
